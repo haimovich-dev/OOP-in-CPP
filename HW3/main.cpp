@@ -123,12 +123,3 @@ int main(){
 
     return 0;
 }
-
-/*Date * date = new Date(30,12,2004);
-    int * id = new int;
-    *id = 10;
-    Trip * trip1 = new Trip(id,"Danil",date);
-    Trip * trip2 = new Trip();
-
-    trip1->PrintTrip();
-    trip2->PrintTrip();*/
